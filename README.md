@@ -2,14 +2,14 @@
 
 TEMPLATE FRAPPE NEWARA
 CSS DESIGN LIKE ODOO
-<img src="newara_frappe_v16.png">
-<img src="newara_frappe_v16_2.png">
-<img src="newara-frappe-v16_3.png">
+<img src="newara.PNG">
+
 #### For login page:
 <p>
-So amazing login;
+Add the css file in Website Settings, Header TAB:<br>
+&lt;link rel="stylesheet" href="/assets/newara/css/newara.css"&gt;
 </p>
-<img src="login_v16.png">
+<img src="login.PNG">
 
 #### License
 
